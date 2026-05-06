@@ -1,0 +1,10 @@
+# Cloudflare Pages / Git
+.DS_Store
+Thumbs.db
+release/*
+!release/.gitkeep
+
+# Ignore large binary folders for Git
+*.zip
+*.exe
+*.pdf
