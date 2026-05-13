@@ -8,3 +8,9 @@ release/*
 *.zip
 *.exe
 *.pdf
+.reports/
+.workforce-output/
+.wrangler/
+node_modules/
+deploy/.wrangler/
+deploy/node_modules/
